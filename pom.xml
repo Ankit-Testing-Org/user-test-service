@@ -54,6 +54,7 @@
 			<groupId>com.mysql.cj</groupId>
 			<artifactId>mysql-connector-j</artifactId>
 			<scope>runtime</scope>
+			<version>8.0.32</version>
 		</dependency>
 		<dependency>
 			<groupId>org.projectlombok</groupId>
